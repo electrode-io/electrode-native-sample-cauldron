@@ -20,7 +20,8 @@
               ],
               "miniApps": {
                 "container": [
-                  "movielistminiapp@0.0.4"
+                  "movielistminiapp@0.0.4",
+                  "moviedetailsminiapp@0.0.3"
                 ],
                 "codePush": []
               },
