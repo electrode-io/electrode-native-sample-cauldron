@@ -43,7 +43,8 @@
               "binary": null,
               "yarnlock": null,
               "nativeDeps": [
-                "react-native@0.48.3"
+                "react-native@0.48.3",
+                "react-native-electrode-bridge@1.5.7"
               ],
               "miniApps": {
                 "container": [],
