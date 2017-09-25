@@ -6,7 +6,12 @@
   "nativeApps": [
     {
       "name": "movieapp",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
