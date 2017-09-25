@@ -1,0 +1,12 @@
+{
+  "manifest": {
+    "targetNativeDependencies": [],
+    "targetJsDependencies": []
+  },
+  "nativeApps": [
+    {
+      "name": "movieapp",
+      "platforms": []
+    }
+  ]
+}
