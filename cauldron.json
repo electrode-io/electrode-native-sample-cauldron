@@ -19,7 +19,9 @@
                 "react-native-ernnavigation-api@0.0.3"
               ],
               "miniApps": {
-                "container": [],
+                "container": [
+                  "movielistminiapp@0.0.4"
+                ],
                 "codePush": []
               }
             }
